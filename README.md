@@ -2,7 +2,7 @@
 
 Projeto desenvolvido individualmente por Arthur Nunes.
 
-## Instruções para abrir
+  ## Instruções para abrir
 
 - Para abrir o projeto, baixe o repositório em "Code" e "Download ZIP";
 - Descompacte o arquivo e abra a pasta no VSCode;
